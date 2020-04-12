@@ -1,6 +1,6 @@
 # profilepage4
 
-Profile Page 4
+profilepage with back ground fill and page in bottom center with button add and follow action with user
 
 ## Getting Started
 
